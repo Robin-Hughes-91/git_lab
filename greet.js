@@ -1,3 +1,6 @@
 const helloWorld = () => {
-  return "Hello Wooowowowow!";
+  return "Hello Wooo!";
+}
+const helloWorld = () => {
+  return "Hello Wooo!";
 }
